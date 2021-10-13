@@ -1,0 +1,15 @@
+Section 1
+
+Create Simple HTML Page
+Run With browser-syn
+Create a html div with id of 'root' where you can append your javascript genereated dom element
+Create Javascript Script Section
+Inside Javascript Section: 
+Get access to that root element
+Create div element
+Give that element a className container
+Give element with classname container text content hello world
+Append element to root div
+
+Section 2
+Add necessary CDN to run react from unpkg.com
